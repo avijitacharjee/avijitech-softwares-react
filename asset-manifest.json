@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/avijitech-softwares-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/avijitech-softwares-react/static/js/main.b24fe4ad.chunk.js",
+    "main.js.map": "/avijitech-softwares-react/static/js/main.b24fe4ad.chunk.js.map",
+    "runtime-main.js": "/avijitech-softwares-react/static/js/runtime-main.3c6c4e22.js",
+    "runtime-main.js.map": "/avijitech-softwares-react/static/js/runtime-main.3c6c4e22.js.map",
+    "static/js/2.dd8253b6.chunk.js": "/avijitech-softwares-react/static/js/2.dd8253b6.chunk.js",
+    "static/js/2.dd8253b6.chunk.js.map": "/avijitech-softwares-react/static/js/2.dd8253b6.chunk.js.map",
+    "index.html": "/avijitech-softwares-react/index.html",
+    "precache-manifest.d4b83e07e9fb28f47897e24eb7a7864c.js": "/avijitech-softwares-react/precache-manifest.d4b83e07e9fb28f47897e24eb7a7864c.js",
+    "service-worker.js": "/avijitech-softwares-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/avijitech-softwares-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.dd8253b6.chunk.js.LICENSE.txt": "/avijitech-softwares-react/static/js/2.dd8253b6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/avijitech-softwares-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c6c4e22.js",
+    "static/js/2.dd8253b6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b24fe4ad.chunk.js"
+  ]
+}
